@@ -30,6 +30,6 @@
             printf("Triângulo Isósceles");
         }
 
-             // nao sei como fazer quando, por exemplo "0, 10, -1". Eu sei que n da pra montar
+             // nao sei como fazer quando, por exemplo "0, 10, -1". Eu sei que n da pra formar
                                                                 // um triangulo com valores negativos.
 return 0;   }
