@@ -22,7 +22,7 @@
             printf("\nNota A' APROVADO!");
         }
         if(nota >= 7.5 & nota <= 8.9){
-            printf("\nNota B APROVADO!");
+            printf("\nNota B' APROVADO!");
         }
         if(nota >= 6 & nota <= 7.4){
             printf("\nNota C' APROVADO!");
