@@ -36,8 +36,5 @@
             else {
             printf("Obesidade Grau III (mórbida)!.");
         }
-
-        return 0;
-
-                        // não sei colocar o "a", então o primeiro resultado é a resposta.
-    }
+                        // nao sei colocar o "a", entao o primeiro resultado é a resposta.
+return 0; }
