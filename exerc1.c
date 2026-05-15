@@ -10,7 +10,8 @@
 
         if (consumo <= 10){
             printf("Consumo = R$7.59");
-        } else if (consumo <= 20){
+        } 
+        else if (consumo <= 20){
             valor = consumo * 1.31;
             printf("Valor = %.2f", valor);
         } else if(consumo <= 30){
@@ -19,9 +20,11 @@
         } else if(consumo <= 50){
             valor = consumo * 6.62;
             printf("Valor = %.2f", valor);
-        } else {
+        } 
+        else {
             valor = consumo * 7.31;
             printf("Valor = %.2f", valor);
         }
+        
         return 0;
     }
